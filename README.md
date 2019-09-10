@@ -1,7 +1,4 @@
----
-title: 'iPseU-NCP: Identifying RNA Pseudouridine sites using Random Forest and NCP-encoded features'
-output: html_document
----
+# iPseU-NCP: Identifying RNA Pseudouridine sites using Random Forest and NCP-encoded features
 
 ### Background
 
